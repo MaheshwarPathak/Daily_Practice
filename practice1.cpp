@@ -1,0 +1,1 @@
+Today I am Learn why we can optimize code.
